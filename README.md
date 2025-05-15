@@ -103,4 +103,4 @@ MIT License - See [LICENSE](LICENSE) for details
 - Streamlit Community
 - Tesseract OCR Maintainers
 
-**Contact** 📧: [your.email@domain.com](mailto:your.email@domain.com)
+**Contact** 📧: [your.email@domain.com](mailto:ramprabhathsirimalla6@gmail.com)
